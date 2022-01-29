@@ -1,0 +1,24 @@
+[
+    {
+        "en" : [
+                "Meat, Fishes and Eggs",
+                "Seasoning",
+                "Dairy Products",
+                "Oils",
+                "Fruits and Vegetables",
+                "Sweetened",
+                "Cereals",
+                "Drinks"
+        ],
+        "fr" : [
+            "Viandes, Poissons et Oeufs",
+            "Assaisonnements",
+            "Produits Laitiers",
+            "Matières Grasses",
+            "Fruits et Légumes",
+            "Sucrés",
+            "Céréales",
+            "Boissons"
+        ]
+    }
+]
